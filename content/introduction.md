@@ -5,4 +5,5 @@ draft: false
 ---
 
 You will write a few paragraphs here.
+
 ![This is a picture of my dog, Blaze](https://modest-fermat-1ff38a.netlify.app/IMG_0551.jpg)
