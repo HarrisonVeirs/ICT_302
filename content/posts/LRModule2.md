@@ -5,3 +5,11 @@ draft: false
 ---
 
 I **can** identify and define key concepts in (web) content management using Deane Barker's content management glossary.
+
+I cannot describe and compare content management systems.
+
+I cannot manage content using established workflows.
+
+I cannot identify and employ technologies related to content management.
+
+I cannot find and use resources for self-directed learning.
