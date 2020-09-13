@@ -39,9 +39,3 @@ HUGO_ENABLEGITINFO = "true"
 name = "Introduction"
 weight = 1
 url = "/introduction/"
-
-[params]
-[[menu.main]]
-name = "Annotated Definitions"
-weight = 1
-url = "/AnnotatedDefinitions/"
