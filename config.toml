@@ -42,15 +42,15 @@ url = "/introduction/"
 
 [[menu.main]]
 name = "Annotated Definitions"
-weight = 1
+weight = 2
 url = "/AnnotatedDefinitions/"
 
 [[menu.main]]
 name = "Resource Guide"
-weight = 1
+weight = 3
 url = "/ResourceGuide/"
 
 [[menu.main]]
 name = "Walkthrough"
-weight = 1
+weight = 4
 url = "/Walkthrough/"
