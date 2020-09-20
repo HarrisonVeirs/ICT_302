@@ -1,13 +1,13 @@
 baseURL = "https://modest-fermat-1ff38a.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "hugo-uilite-master"
 
 [build]
 publish = "public"
 command = "hugo --gc --minify"
 
-file="[hugo-uilite-master]"
+[context.production.environment]
 HUGO_VERSION = "0.74.3"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
