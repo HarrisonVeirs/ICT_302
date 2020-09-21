@@ -1,7 +1,7 @@
 baseURL = "https://modest-fermat-1ff38a.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-file = "parsa-hugo"
+theme = "parsa-hugo"
 
 [build]
 publish = "public"
