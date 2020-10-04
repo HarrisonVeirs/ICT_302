@@ -13,5 +13,5 @@ I **can** describe and compare content management systems because I looked at th
 
 I didn't do much to identify and employ technologies related to content management.
 
-I **can** find and use resources for self-directed learning. This week I looked at different websites and resources that provide help and FAQ for WordPress. Personally I looked at WordPress Codex and found a link that showed me how to create and use Posts and the many different features on a "new post" page.
+I **can** find and use resources for self-directed learning. I looked at different websites and resources that provide help and FAQ for WordPress. Personally I looked at WordPress Codex and found a link that showed me how to create and use Posts and the many different features on a "new post" page.
 
